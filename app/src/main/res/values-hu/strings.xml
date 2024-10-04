@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weatherapp</string>
+    <string name="email">Email cím</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="error">Kerlek tolzski az osszes mezot.</string>
+    <string name="timeout_error">Timeout Error</string>
+</resources>

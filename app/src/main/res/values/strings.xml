@@ -1,0 +1,8 @@
+<resources>
+<string name="app_name">Weatherapp</string>
+<string name="email">Email</string>
+<string name="password">Password</string>
+<string name="login">Login</string>
+<string name="error">Please fill in all fields.</string>
+<string name="timeout_error">Timeout Error</string>
+</resources>
